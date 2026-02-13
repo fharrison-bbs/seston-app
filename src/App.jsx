@@ -2263,17 +2263,17 @@ function AboutPage() {
       </div>
       {[
         {
-          name: "Dr. Name Name",
+          name: "Dr. Benz",
           role: "CEO & Co-Founder",
           bg: "Biomedical Engineering, Stanford",
         },
         {
-          name: "Name Name",
+          name: "Dr. Yok",
           role: "CTO & Co-Founder",
           bg: "ML Research, DeepMind",
         },
         {
-          name: "Dr. Name Name",
+          name: "Dr. Sal",
           role: "Chief Medical Officer",
           bg: "Orthopedic Surgery, Johns Hopkins",
         },
