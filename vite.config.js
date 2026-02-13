@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: Change 'posture-app' to your actual GitHub repo name
-  base: '/posture-app/',
+  base: '/seston-app/',
 })
