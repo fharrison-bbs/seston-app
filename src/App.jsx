@@ -2330,7 +2330,7 @@ function AboutPage() {
       </div>
       <GlowCard style={{ padding: 16 }}>
         {[
-          { l: "Email", v: "hello@Seston.health" },
+          { l: "Email", v: "seston1324@gmail.com" },
           { l: "HQ", v: "Bangkok Thailand" },
           { l: "Web", v: "www.Seston.health" },
           { l: "Support", v: "support@Seston.health" },
