@@ -2263,17 +2263,17 @@ function AboutPage() {
       </div>
       {[
         {
-          name: "Dr. Mira Chen",
+          name: "Dr. Name Name",
           role: "CEO & Co-Founder",
           bg: "Biomedical Engineering, Stanford",
         },
         {
-          name: "Raj Patel",
+          name: "Name Name",
           role: "CTO & Co-Founder",
           bg: "ML Research, DeepMind",
         },
         {
-          name: "Dr. Sarah Okonkwo",
+          name: "Dr. Name Name",
           role: "Chief Medical Officer",
           bg: "Orthopedic Surgery, Johns Hopkins",
         },
@@ -2331,7 +2331,7 @@ function AboutPage() {
       <GlowCard style={{ padding: 16 }}>
         {[
           { l: "Email", v: "hello@Seston.health" },
-          { l: "HQ", v: "San Francisco, CA" },
+          { l: "HQ", v: "Bangkok Thailand" },
           { l: "Web", v: "www.Seston.health" },
           { l: "Support", v: "support@Seston.health" },
         ].map((c) => (
